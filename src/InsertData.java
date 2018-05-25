@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * New some 
  */
-
+//mentor: kalyan mazumder
 //Author kanchan
 @WebServlet("/InsertData")
 public class InsertData extends HttpServlet {
