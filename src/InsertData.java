@@ -21,7 +21,8 @@ public class InsertData extends HttpServlet {
      */
     public InsertData() {
         super();
-        // TODO Auto-generated constructor stub
+        // TODO Auto-generated....
+        //modified here
     }
 
 	/**
